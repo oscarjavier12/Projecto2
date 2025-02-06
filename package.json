@@ -1,0 +1,19 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "sumatoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarjavier12/Projecto2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarjavier12/Projecto2/issues"
+  },
+  "homepage": "https://github.com/oscarjavier12/Projecto2#readme"
+}
